@@ -80,7 +80,7 @@ always in mind that they are scalable in order to build as a team.
   BACKEND: Node.js, Express, Sequelize y Heroku para el deploy.
 
   [Countries App](https://countries-app-blush-kappa.vercel.app)
-  ![Countries app](./images/countries.png){width=250}
+  ![Countries app](./images/countries.png)
 
 ### Heroes App
 
@@ -89,18 +89,18 @@ always in mind that they are scalable in order to build as a team.
 - Se observan temas como hooks(useReducer, useContext, useEffect, etc), routers y estilos con Bootstrap
 
 [Heroes App](https://heroes-app-eeuvsfrs0-jordytiradotorres.vercel.app)
-![Heroes app](./images/marvel.png){width=250}
+![Heroes app](./images/marvel.png)
 
 ### Pig Game
 
 - Pequeño juego Pig Game hecho con Javascript
 
 [Pig Game](https://the-pig-game-git-master-jordytiradotorres.vercel.app)
-![Pig Game](./images/pig-game.png){width=250}
+![Pig Game](./images/pig-game.png)
 
 ### App Music
 
 - App que lista canciones o álbumes por su nombre, utilizando la api de Deezer
 
 [App Music](https://proyecto-music.vercel.app)
-![App Music](./images/music.png){width=250}
+![App Music](./images/music.png)
