@@ -24,40 +24,40 @@ always in mind that they are scalable in order to build as a team.
 
 💪 My Skills:
 
- 🔹Collaborative
- 🔹Autodidact
- 🔹Persistent
- 🔹Teamwork
- 🔹Teaching
+🔹Collaborative
+🔹Autodidact
+🔹Persistent
+🔹Teamwork
+🔹Teaching
 
 💻 Technologies:
- 🔺 Front-end:
- 🔹JavaScript
- 🔹HTML
- 🔹CSS
- 🔹ReactJS
- 🔹Redux
- 🔹Pug
- 🔹Sass
- 🔹Bootstrap
- 🔹Styled Components
- 
-🔺 Backend:
- 🔹Node
- 🔹Express
- 🔹Sequelize
- 
-🔺 Databases:
- 🔹Postgres
- 🔹MongoDB
- 
-🔺 Others:
- 🔹Git
- 🔹Figma
+🔺 Front-end:
+🔹JavaScript
+🔹HTML
+🔹CSS
+🔹ReactJS
+🔹Redux
+🔹Pug
+🔹Sass
+🔹Bootstrap
+🔹Styled Components
 
-📢 Langauges: 
+🔺 Backend:
+🔹Node
+🔹Express
+🔹Sequelize
+
+🔺 Databases:
+🔹Postgres
+🔹MongoDB
+
+🔺 Others:
+🔹Git
+🔹Figma
+
+📢 Langauges:
 🔹English (Basic)
-🔹Spanish (Native) 
+🔹Spanish (Native)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,4 +70,5 @@ always in mind that they are scalable in order to build as a team.
 
 ### Some of my projects
 
-
+[Link](https://countries-app-blush-kappa.vercel.app)
+![Countries app](./images/countries.png)
