@@ -70,5 +70,14 @@ always in mind that they are scalable in order to build as a team.
 
 ### Some of my projects
 
-[Link](https://countries-app-blush-kappa.vercel.app)
-![Countries app](./images/countries.png)
+### Countries App
+
+- El proyecto consta en mostrar todos los países del mundo traídos desde una API externa, para así manipularlos, ya sea ordenarlos por nombre, población, filtrar por continente, etc.
+  Se pueden agregar actividades y asociarlas a países dependiendo de quién posea esa actividad.
+
+- Las tecnologías utilizadas fueron:
+  FRONTEND: Javascript, React, Redux, Sass y Vercel para el deploy.
+  BACKEND: Node.js, Express, Sequelize y Heroku para el deploy.
+
+  [Countries App](https://countries-app-blush-kappa.vercel.app)
+  ![Countries app](./images/countries.png =200x200)
